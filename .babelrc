@@ -2,10 +2,5 @@
   "presets": [
     ["env", { "modules": false }]
   ],
-  "env": {
-    "test": {
-      "presets": ["env", "stage-2"],
-    }
-  },
   "comments": false
 }
